@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👨‍💻 All of my projects are available at [abhishekssharma.netlify.app](abhishekssharma.netlify.app)
+- 👨‍💻 All of my projects are available at **https://abhishekssharma.netlify.app/**
 
 - 📫 How to reach me **abhishekkumar62070077@gmail.com**
 
